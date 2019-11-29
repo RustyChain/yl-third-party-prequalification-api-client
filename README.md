@@ -56,11 +56,11 @@ npm run build
 
 #### git
 
-If the library is hosted at a git repository, e.g.https://github.com/GIT_USER_ID/GIT_REPO_ID
+The library is hosted at a git repository, e.g.https://github.com/YouLend/yl-third-party-prequalification-api-client.git
 then install it via:
 
 ```shell
-    npm install GIT_USER_ID/GIT_REPO_ID --save
+    npm install YouLend/yl-third-party-prequalification-api-client --save
 ```
 
 ### For browser
