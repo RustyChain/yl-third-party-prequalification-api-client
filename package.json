@@ -1,6 +1,6 @@
 {
   "name": "yl-third-party-prequalification-api-client",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Through this API you can can check if a merchant pre qualifies for a Youlend loan",
   "license": "MT",
   "main": "dist/index.js",
